@@ -1,10 +1,22 @@
 # GrubDash
 
-*Deployed Server*
+### Deployed Server
 
 ex.
 [/orders](https://grubdash-backend-wywi.onrender.com/orders)
 [/dishes](https://grubdash-backend-wywi.onrender.com/dishes)
+
+### GrubDash Frontend
+[https://github.com/NolaDodd/starter-grub-dash-front-end](https://github.com/NolaDodd/GrubDash-Frontend)
+
+Instructions on how to get the frontend application up and running are included in the repository.
+
+### See Deployed Site with Frontend
+
+[Website](https://grubdash-frontend-gs3y.onrender.com/)
+
+
+------------
 
 You've been hired as a backend developer for a new startup called GrubDash!
 As another developer works on the design and frontend experience, you have been tasked with setting up an API and building out specific routes so that
@@ -21,11 +33,6 @@ This project will test your ability to build APIs with complex validation. Befor
 - Building an API following RESTful design principles
 - Writing custom middleware functions
 - You will not need to make any edits to HTML or CSS for this project.
-
-### GrubDash Frontend
-[https://github.com/NolaDodd/starter-grub-dash-front-end](https://github.com/NolaDodd/GrubDash-Frontend)
-
-Instructions on how to get the frontend application up and running are included in the repository.
 
 ## Running tests
 To run the tests, you can run the following command:
