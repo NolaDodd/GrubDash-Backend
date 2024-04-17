@@ -15,6 +15,8 @@ Instructions on how to get the frontend application up and running are included 
 
 [Website](https://grubdash-frontend-gs3y.onrender.com/)
 
+*Note: If the site is blank, click one of the deployed server links, then it should load.*
+
 
 ------------
 
